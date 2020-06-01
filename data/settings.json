@@ -1,11 +1,11 @@
 {
   "sidebar": [
     {
-      "section": "OU Campus",
+      "section": "Docs",
       "topics": [
         {
           "title": "Snippets",
-          "slug": "snippets"
+          "slug": "ou-campus/snippets"
         }
       ]
     },
