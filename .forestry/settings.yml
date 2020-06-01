@@ -8,7 +8,7 @@ sections:
   path: data/settings.json
   label: Menu
 - type: heading
-  label: My First Heading
+  label: This only shows in Forestry?
 - type: directory
   path: docs
   label: Docs
