@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "OU Campus",
+      "topics": [
+        {
+          "title": "Snippets",
+          "slug": "snippets"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
